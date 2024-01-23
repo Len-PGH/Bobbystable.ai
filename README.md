@@ -22,8 +22,8 @@ The website is used to display the reservation details. This can be put behind a
 
 This is a backend interface gated by a login user name and password.
 
-- `user:` This is the caller's interaction.
-- `Assistant:` This is the AI bot's interaction.
+- `user:` The caller's interaction.
+- `Assistant:` The AI bot's interaction.
 - `function:` This shows that the function was executed either correctly or incorrectly.
 - `system:` This is like the assistant but on a higher level.
 
