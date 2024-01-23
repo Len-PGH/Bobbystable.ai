@@ -2,12 +2,11 @@
 https://Bobbystable.ai AI Reservation bot powered by [Signalwire](https://signalwire.com/?utm_source=bobbystable.ai)
 
 
-Weclome to Bobbystable.ai. Bobbystable.ai is a functional demo of a restaurant reservation system using Signalwire's API's.
+Welcome to Bobbystable.ai. Bobbystable.ai is a functional demo of a restaurant reservation system using Signalwire's APIs.
 
-In this repo, you will find the full prompt used, all functions used.  The functions are written in perl.
+In this repository, you will find the full prompt used, along with all the functions. The functions are written in Perl.
 
-
-In addition to what is included in this repo you will also need a web server(NGINX), Database(Postgresql), Signalwire's API's, Registered Campain for SMS, and related perl modules.
+In addition to what is included in this repository, you will also need a web server (NGINX), a database (PostgreSQL), Signalwire's APIs, a registered campaign for SMS
 
 
 
