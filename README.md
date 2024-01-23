@@ -12,7 +12,7 @@ In addition to what is included in this repository, you will also need a web ser
 
 -------------------
 
-The website is used to display the reservation details. This can be put behind a user name and password but was left open to show the fuctionality.
+The website is used to display the reservation details. This could be protected with a username and password, but it was left open to demonstrate the functionality.
 
 ![image](https://github.com/Len-PGH/Bobbystable.ai/assets/13131198/5a03a103-83df-495b-bc98-8de136fa5cdc)
 
