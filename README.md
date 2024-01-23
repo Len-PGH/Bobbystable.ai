@@ -6,7 +6,7 @@ Welcome to Bobbystable.ai. Bobbystable.ai is a functional demo of a restaurant r
 
 In this repository, you will find the full prompt used, along with all the functions. The functions are written in Perl.
 
-In addition to what is included in this repository, you will also need a web server (NGINX), a database (PostgreSQL), Signalwire's APIs, a registered campaign for SMS
+In addition to what is included in this repository, you will also need a web server (NGINX), a database (PostgreSQL), Signalwire's APIs, and a registered campaign for SMS.
 
 
 
