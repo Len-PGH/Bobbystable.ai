@@ -22,7 +22,7 @@ Understanding the HTML Structure
 
 The site's interactivity is powered by form inputs and links, allowing customers to easily update or cancel their reservations. Here's how it works:
 
-Step 1: Verifying the Reservation
+#### Step 1: Verifying the Reservation
 
 Customers begin by entering the phone number under which the reservation was made. This step is crucial for identifying the specific reservation to be updated.
 
@@ -35,11 +35,11 @@ Customers begin by entering the phone number under which the reservation was mad
 
 ```
 
-### Step 2: Security Verification
+#### Step 2: Security Verification
 
 In the second step, customers are asked to input a verification code (SignalWire MFA api) sent to their phone. This enhances security by ensuring that only the person who made the reservation can modify it.
 
-### Step 3: Updating Reservation Details
+#### Step 3: Updating Reservation Details
 
 Finally, customers can update their reservation details, such as the name on the reservation, the number of people, and the date and time. They can also choose to cancel the reservation in this step.
 
@@ -60,13 +60,13 @@ The footer provides additional contact information and links to partner services
 Enhancing User Experience
 
 The website's design focuses on ease of use. The clear, step-by-step process for reservation management makes it straightforward for users to modify their plans. The use of forms and validation ensures that the information is accurate and secure.
-Key Takeaways
+
+#### Key Takeaways
 
 * User-Friendly Design: The website's layout and step-by-step process make it easy for customers to interact with the site.
 * Security: Verification steps add an extra layer of security to the reservation process.
 * Accessibility: Contact information and reservation options are easily accessible.
 
-Bobby's Table exemplifies how a well-designed website can streamline customer interactions and enhance the overall dining experience.
 
 ---------------------------
 
