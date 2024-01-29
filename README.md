@@ -1,6 +1,7 @@
 # Bobbystable.ai
 https://Bobbystable.ai AI Reservation bot powered by [Signalwire](https://signalwire.com/?utm_source=bobbystable.ai)
 
+Live demo: Call `+1-754-432-6229`
 
 Welcome to Bobbystable.ai. Bobbystable.ai is a functional demo of a restaurant reservation system using Signalwire's APIs.
 
