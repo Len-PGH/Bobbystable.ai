@@ -10,7 +10,6 @@ In this repository, you will find the full prompt used, along with all the funct
 In addition to what is included in this repository, you will also need a web server (NGINX), a database (PostgreSQL), Signalwire's APIs, and a registered/apporoved campaign for SMS.
 
 
-
 -------------------
 
 The website is used to display the reservation details. This could be protected with a username and password, but it was left open to demonstrate the functionality.
